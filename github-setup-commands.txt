@@ -1,0 +1,10 @@
+git init
+git add .
+git commit -m "commit inicial"
+git remote add origin https://github.com/carlosAjax/proytest.git
+git remote set-url origin https://carlosAjax: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@github.com/carlosAjax/proytest.git^C
+git push --set-upstream origin master
+
+
+
+
